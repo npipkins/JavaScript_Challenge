@@ -1,5 +1,7 @@
 # JavaScript_Challenge
 
+
+
 ## Background
 
 <!-- WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -11,8 +13,12 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found! -->
 
 ## Automic Table and Date Search
-While using d3 to create the table body, use the data provided to loop through the UFO sightings, append table rows and select desired columns. 
+<!-- While using d3 to create the table body, use the data provided to loop through the UFO sightings, append table rows and select desired columns. 
 
-Update the HTML page to make the filter button work relative to the datetime entered. 
+Update the HTML page to make the filter button work relative to the datetime entered. The code will listen for events and search throught the datetime columne to find the UFO sightings that match the desired input. -->
+
+## Multiple Search Categories
+<!-- Update the filter search box to allow more filtering selections. -->
+
 
 
