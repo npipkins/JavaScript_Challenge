@@ -16,9 +16,7 @@ tableData.forEach(UFOsighting => {
   Object.entries(UFOsighting).forEach(([key, value]) => {
     console.log(key, value);
     var cell = row.append("td");
-
-// Step 5: Use d3 to update each cell's text with
-// weather report values (weekday, date, high, low)
+    
     cell.text(value);
   });
 });
