@@ -22,10 +22,3 @@ tableData.forEach(UFOsighting => {
 });
 
 
-// var datetime = tableData.datetime
-// var city = tableData.city
-// var state = tableData.state
-// var country = tableData.country
-// var shape = tableData.shape
-// var comment = tableData.comment
-
