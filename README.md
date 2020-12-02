@@ -15,7 +15,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ## Automic Table and Date Search
 While using d3 to create the table body, use the data provided to loop through the UFO sightings, append table rows and select desired columns. 
 
-Update the HTML page to make the filter button work relative to the datetime entered. The code will listen for events and search throught the datetime columne to find the UFO sightings that match the desired input.
+Update the HTML page to make the filter button work relative to the desired value entered. The code will listen for events and search throught the different columns to find the UFO sightings that match the desired input.
 
 ## Multiple Search Categories
 Update the filter search box to allow more filtering selections.
